@@ -1,1 +1,1 @@
-# Amazon-Clone
+This is font-end  website of popular E-commerce website. I made with JavaScript, Html and CSS only. This is clone of amazon webiste which helpful for learning at beginner level about javaScript ,Html and CSS.
